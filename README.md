@@ -5,6 +5,7 @@ Machine Learning II
 Aplicación de Ciencia de Datos y Machine Learning al Control de Calidad en el Despacho de Pulpas de Fruta Concentrada
 
 Witman Zavala Muñoz
+
 Curso Machine Learning II
 
 En este proyecto se desarrolló una aplicación de Ciencia de Datos y Machine Learning orientada a apoyar el control de calidad en el proceso de despacho de pulpas de fruta concentrada, con el objetivo de predecir el destino final del producto, ya sea aprobación para despacho o decomiso, a partir de información histórica del proceso de inspección.
