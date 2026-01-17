@@ -3,6 +3,7 @@ Resumen del Proyecto Final
 Machine Learning II
 
 Aplicación de Ciencia de Datos y Machine Learning al Control de Calidad en el Despacho de Pulpas de Fruta Concentrada
+
 Witman Zavala Muñoz
 Curso Machine Learning II
 
