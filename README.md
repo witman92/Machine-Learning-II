@@ -2,8 +2,7 @@ Resumen del Proyecto Final
 
 Machine Learning II
 
-Aplicación de Ciencia de Datos y Mach[CODIGO LATEX-Taller_investigación_proyecto_final.zip](https://github.com/user-attachments/files/24719440/CODIGO.LATEX-Taller_investigacion_proyecto_final.zip)
-ine Learning al Control de Calidad en el Despacho de Pulpas de Fruta Concentrada
+Aplicación de Ciencia de Datos y Machine Learning al Control de Calidad en el Despacho de Pulpas de Fruta Concentrada
 
 Witman Zavala Muñoz
 
